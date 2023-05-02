@@ -22,7 +22,4 @@
   "hasBrainDamage": true
 }
 ```
-me when you star and share my pinned repo:
-
-<img width="512" alt="literally me" src="https://user-images.githubusercontent.com/115044820/235794437-cab82943-1995-4b84-a876-73cd31d42567.png">
 
