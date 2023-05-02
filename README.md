@@ -1,34 +1,28 @@
-## Hi 👋, I'm 3kh0
+## Hi 👋, I'm Sreekar
 
-### "It's not a bug, it's a feature" - Andrew Tanenbaum
+### "It's not a bug, it's a feature" - someone, i think
 
 ```json
 {
-  "name": "Echo",
-  "age": 14,
-  "intrests": ["programming", "gaming", "foss software", "digital privacy"],
-  "operatingSystem": "Kali Linux",
-  "browser": "Firefox",
-  "browserExtensions": ["uBlock Origin", "Violentmonkey", "NoScript"],
-  "programmingLanguages": ["Javascript", "HTML", "TypeScript", "Python", "CSS", "Markdown"],
-  "hackingTools": ["nmap", "wireshark", "hydra", "metasploit-framework", "aircrack-ng", "john", "burpsuite", "wpscan", "traceroute", "hashcat"],
-  "editor": "VSCodium",
-  "socials": {
-    "mastodon": "@3kh0@defcon.social",
-    "emails": ["echo-the-coder@tuta.io", "3kh0@riseup.net", "3kh0@proton.me"],
-    "discord": {
-      "server": "https://discord.gg/3kh0",
-      "username": "3kh0_#6969"
-    },
-    "spotify": "open.spotify.com/user/z3dlpi0cfntezy77ypqi8xass",
-    "minecraft": "3kh0_",
-    "xboxlive": "Echo7781",
-    "reddit": "u/3kh0_reddit",
-    "steam": "steamcommunity.com/id/3kh0_"
-  },
+  "name": "Sreekar",
+  "age": 13,
+  "intrests": ["my pinned repo", "rice", "eating rice", "you"],
+  "operatingSystem": "Chrome OS/Windows",
+  "browser": "Chrome",
+  "browserExtensions": ["uBlock Origin", "iBoss (sometimes)"],
+  "programmingLanguages": ["none of the above lmao"],
+  "hackingTools": ["no"],
+  "editor": "VSCode",
+  "discord": {
+    "server": "DM me for the link",
+    "username": "Sreekar#5452"
+
   "certifications": ["A+ (Unoffical)"],
-  "learning": "Security+",
+  "learning": "si",
   "hasBrainDamage": true
 }
 ```
-<img src="https://komarev.com/ghpvc/?username=3kh0&label=Amount of eyeballs that saw this &color=001eff&style=flat" alt="3kh0" />
+me when you star and share my pinned repo:
+
+<img width="512" alt="literally me" src="https://user-images.githubusercontent.com/115044820/235794437-cab82943-1995-4b84-a876-73cd31d42567.png">
+
